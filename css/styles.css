@@ -89,18 +89,23 @@ header {
   background-size: cover;
   background-position-y: -180px;
   top: 80px;
+  padding-bottom: 80px;
   position: relative;
-  margin-bottom: 220px;
+  margin-bottom: 180px;
 }
 
 .subheader {
-  margin-bottom: 0px;
+  margin-bottom: -80px;
+}
+
+#interests {
+  margin-bottom: -70px;
 }
 
 .subheader h1 {
   font-size: 70px;
   text-align: center;
-  margin-top: 40px;
+  margin-top: 60px;
   margin-bottom: 0px;
 }
 
@@ -111,6 +116,11 @@ section {
 .blue {
   background-color: #F4F3EE;
   padding: 60px 0;
+}
+
+.interests {
+  margin-top: 20px;
+  padding: 60px;
 }
 
 .portrait {
