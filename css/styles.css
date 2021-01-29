@@ -84,7 +84,7 @@ li.empty {
 }
 
 header {
-  background-image: url("../img/background-01.png");
+  background-color: #F4F3EE;
   background-repeat: no-repeat;
   background-size: cover;
   background-position-y: -180px;
@@ -105,12 +105,12 @@ header {
 }
 
 section {
-  margin: 80px 0px;
+  margin-top: 80px;
 }
 
 .blue {
   background-color: #F4F3EE;
-  padding: 30px 0;
+  padding: 60px 0;
 }
 
 .portrait {
@@ -152,11 +152,15 @@ margin: 10px 0;
   text-align: center;
   font-size: 50px;
   line-height: 150%;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 
 .right-alignment {
   text-align: right;
+}
+
+.before-college h2 {
+  font-size: 28px;
 }
 
 footer {
