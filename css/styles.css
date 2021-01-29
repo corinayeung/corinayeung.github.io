@@ -72,6 +72,10 @@ nav li a {
   color: black;
 }
 
+nav li a:hover {
+    text-decoration: underline;
+}
+
 li.empty {
   width: 80px;
   border-top: 1px solid black;
