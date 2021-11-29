@@ -20,7 +20,7 @@ h1 {
 h2 {
   font-size: 40px;
   line-height: 130%;
-  margin: 10px 0;
+  margin-top: 30px;
 }
 
 h1, h2 {
@@ -94,7 +94,6 @@ header {
   position: relative;
   padding: 20px;
   margin-bottom: 150px;
-  padding-bottom: 50px;
 }
 
 .subheader {
@@ -113,7 +112,7 @@ section {
 
 .blue {
   background-color: #F4F3EE;
-  padding-BOTTOM: 60px;
+  padding: 60px;
   margin: 20px 0;
 }
 
@@ -121,6 +120,7 @@ section {
   box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.2);
   margin-top: 30px;
 }
+
 
 figcaption {
   font-size: 12px;
